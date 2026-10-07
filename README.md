@@ -1,7 +1,3 @@
-# Proyek Web Sederhana dengan Database MySQL & PHP
-
-Proyek ini dibuat untuk memenuhi Penugasan ISCOM 2026.
-
 ## Penjelasan Entitas, Atribut, dan Relasi
 
 1. **Entitas Pelanggan** (`pelanggan`)
